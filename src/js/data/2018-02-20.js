@@ -60,7 +60,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "D.O.",
-    img: "RBxtyqK.jpg",
+    img: "ddLVXQa.jpg",
     opts: {
       series: [ "EXO" ],
       stage: []
@@ -68,7 +68,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hueningkai",
-    img: "PH0G7oQ.jpg",
+    img: "Kduo3SB.jpg",
     opts: {
       series: [ "TXT" ],
       stage: []
@@ -84,7 +84,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amber",
-    img: "79gndN4.jpg",
+    img: "XXqBgk8.jpg",
     opts: {
       series: ["Fx"],
       stage: []
@@ -92,7 +92,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shinwon",
-    img: "41ufqaf.jpg",
+    img: "ZtynYjj.jpg",
     opts: {
       series: [ "Pentagon" ],
       stage: []
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jinjin",
-    img: "kQogwKc.jpg",
+    img: "bHO8WlE.jpg",
     opts: {
       series: ["Astro"],
       stage: []
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jooe",
-    img: "msJNAyn.jpg",
+    img: "F6AR6Ws.jpg",
     opts: {
       series: ["Momoland"],
       stage: []
@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Johnny",
-    img: "SGidCOK.jpg",
+    img: "5He866U.png",
     opts: {
       series: ["NCT"],
       stage: []
@@ -124,7 +124,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Daesung",
-    img: "yZur2KG.jpg",
+    img: "FcN2WPf.jpg",
     opts: {
       series: [ "Bigbang" ],
       stage: []
@@ -140,7 +140,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jihyo",
-    img: "GIeLdSL.jpg",
+    img: "LZYjjFq.jpg",
     opts: {
       series: ["Twice"],
       stage: []
@@ -148,7 +148,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jimin",
-    img: "GJ3SqMY.jpg",
+    img: "LDOaPZW.jpg",
     opts: {
       series: ["AOA"],
       stage: []
@@ -156,7 +156,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hui",
-    img: "SEA2MPK.jpg",
+    img: "mzuDONJ.jpg",
     opts: {
       series: ["Pentagon"],
       stage: []
@@ -172,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hwasa",
-    img: "QIRPKx4.jpg",
+    img: "Gud8Eae.jpg",
     opts: {
       series: ["Mamamoo"],
       stage: []
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hyolyn",
-    img: "zlkTnph.jpg",
+    img: "TDZMQlK.jpg",
     opts: {
       series: ["Sistar"],
       stage: []
@@ -196,7 +196,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kai",
-    img: "KNOoKI1.png",
+    img: "o3ymd56.jpg",
     opts: {
       series: ["EXO"],
       stage: []
@@ -212,7 +212,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mark Lee",
-    img: "SA3s5Jz.jpg",
+    img: "FqObKS4.jpg",
     opts: {
       series: [ "NCT" ],
       stage: []
@@ -220,7 +220,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mark Tuan",
-    img: "fAxOQfV.jpg",
+    img: "AkSuqcw.jpg",
     opts: {
       series: ["Got7"],
       stage: []
@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Peniel",
-    img: "wAkYDHe.jpg",
+    img: "xIctkvy.jpg",
     opts: {
       series: [ "BtoB" ],
       stage: []
@@ -236,7 +236,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mingi",
-    img: "q4v4Reo.jpg",
+    img: "xQxxRcl.jpg",
     opts: {
       series: ["Ateez"],
       stage: []
@@ -244,7 +244,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yeo One",
-    img: "pqk6RNI.jpg",
+    img: "gqtJCEq.jpg",
     opts: {
       series: ["Pentagon"],
       stage: []
@@ -252,7 +252,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Taeyang",
-    img: "tw4zMES.jpg",
+    img: "Vxgz192.jpg",
     opts: {
       series: ["Bigbang"],
       stage: []
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yugyeom",
-    img: "hda0sLN.jpg",
+    img: "Mr0SY40.jpg",
     opts: {
       series: ["Got7"],
       stage: []
@@ -284,7 +284,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Chen",
-    img: "ffBZhQX.jpg",
+    img: "A6YBU6K.jpg",
     opts: {
       series: ["EXO"],
       stage: []
@@ -300,7 +300,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sanha",
-    img: "3WzQYMi.jpg",
+    img: "1UkLRRA.png",
     opts: {
       series: ["Astro"],
       stage: []
@@ -316,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Xiumin",
-    img: "PKobBaP.jpg",
+    img: "OMyJ6u8.jpg",
     opts: {
       series: ["EXO"],
       stage: []
@@ -324,7 +324,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Seonghwa",
-    img: "SbYxA8a.jpg",
+    img: "zmhjW6m.jpg",
     opts: {
       series: ["Ateez"],
       stage: []
