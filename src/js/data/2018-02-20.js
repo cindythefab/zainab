@@ -204,7 +204,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Taemin",
-    img: "Y1TpC6y.jpg",
+    img: "pDHSFHA.jpg",
     opts: {
       series: [ "Shinee" ],
       stage: []
