@@ -154,7 +154,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rocky",
-    img: "FUJUVqo.jpg",
+    img: "VwXZac3.jpg",
     opts: {
       series: ["IDOL"],
       stage: []
