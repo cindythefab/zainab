@@ -185,14 +185,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Jeonghwa",
-    img: "QBOJyl3.jpg",
-    opts: {
-      series: [ "IDOL" ],
-      stage: []
-    }
-  },
-  {
     name: "Hyunjae",
     img: "CmF2maP.jpg",
     opts: {
